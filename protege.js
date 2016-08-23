@@ -1063,7 +1063,7 @@ Object.extend(Date.prototype, (function() {
 	}
 
 	function getWeekDay(){
-		var days = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+		var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 		return days[this.getDay()];
 	}
 
