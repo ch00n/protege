@@ -1,0 +1,26 @@
+{
+  "name": "protegejs",
+  "version": "0.5.4",
+  "description": "Protégé is a jQuery compatible version of the Prototype JavaScript framework by Sam Stephenson.",
+  "main": "protege.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch00n/protege.git"
+  },
+  "keywords": [
+    "PrototypeJS",
+    "jQuery",
+    "javascript",
+    "protege",
+    "Protégé"
+  ],
+  "author": "Ryan Peel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ch00n/protege/issues"
+  },
+  "homepage": "https://github.com/ch00n/protege#readme"
+}
